@@ -7,7 +7,7 @@ date: "University of Florida"
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 <div class ="portrait">
-  <img src="images/me2.gif"alt = "PhD Student" style="width:20%; margin-right: 60px" align="left" />
+  <img src="images/me2.gif"alt = "PhD Student" style="width:20%; margin-right: 60px" align="left", fig_caption = "PhD Student" />
   <fig caption>  </figcaption>
 </div>
 
