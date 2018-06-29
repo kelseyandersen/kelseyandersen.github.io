@@ -1,7 +1,7 @@
 
 name: "my-website"
 navbar:
-  title: "Kelsey Andersen"
+  title: ""
   left:
     - text: "About"
       href: index.html
@@ -21,6 +21,6 @@ output:
     theme: flatly
     highlight: monochrome
     css: 'styles.css'
-    #toc: true  
-    #toc_float: true  
+    toc: true  
+    toc_float: true  
 output_dir: "."

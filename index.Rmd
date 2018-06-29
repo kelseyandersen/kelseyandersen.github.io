@@ -1,11 +1,16 @@
 ---
-title: "Hi, I'm Kelsey!"
+title: "Kelsey Andersen"
+author: "PhD Student"
+date: "University of Florida"
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+<div class ="portrait">
+  <img src="images/me2.gif"alt = "PhD Student" style="width:20%; margin-right: 60px" align="left" />
+  <fig caption>  </figcaption>
+</div>
 
-<img src="images/me.jpg" style="width:25%; border:4px solid; margin-right: 60px" align="left">
 
 ##About Me
 
