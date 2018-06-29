@@ -2,7 +2,7 @@
 name: "my-website"
 navbar:
   title: "Kelsey Andersen"
-  left:
+  center:
     - text: "About"
       href: index.html
     - text: "CV"
