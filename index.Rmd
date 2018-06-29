@@ -12,6 +12,12 @@ date: "University of Florida"
 </div>
 
 
-##Bio
+## Bio
 
-I am currently a PhD student in Karen Garrett's Lab (www.garrettlab.com) in the department of plant pathology at the University of Florida. I am currently very interested in using network models to understand plant disease epidemics on a landscape level. 
+I am currently a PhD student in [Karen Garrett's Lab](http://www.garrettlab.com) in the department of plant pathology at the University of Florida. My main research interest is using network models to understand plant disease epidemics on a landscape level.  
+\  
+\  
+
+
+
+## Current Projects
