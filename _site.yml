@@ -1,7 +1,7 @@
 
 name: "my-website"
 navbar:
-  title: ""
+  title: "Kelsey Andersen"
   left:
     - text: "About"
       href: index.html
