@@ -1,8 +1,8 @@
 
-name: "my-website"
+name: "Kelsey Andersen"
 navbar:
   title: "Kelsey Andersen"
-  center:
+  left:
     - text: "About"
       href: index.html
     - text: "CV"
