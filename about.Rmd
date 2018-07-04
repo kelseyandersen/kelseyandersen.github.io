@@ -2,8 +2,7 @@
 title: "CV"
 ---
 ##Education
-\
-  
+\  
 
 
 #### PhD Plant Pathology GPA: 4.00/4.00
@@ -57,7 +56,5 @@ Undergraduate Research Assistant
 
 #### Lafayette College · Easton, PA Summer 2010  
 EXCEL Scholar  
-
-
 
 

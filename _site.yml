@@ -23,6 +23,6 @@ output:
     theme: paper
     highlight: monochrome
     css: 'styles.css'
-    #toc: true  
-    #toc_float: true  
+   # toc: true  
+    #toc_float: true
 output_dir: "."
