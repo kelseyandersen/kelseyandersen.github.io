@@ -7,17 +7,28 @@ date: "University of Florida"
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 <div class ="portrait">
-  <img src="images/me2.gif"alt = "PhD Student" style="width:20%; margin-right: 60px" align="left", fig_caption = "PhD Student" />
+  <img src="images/me2.gif"alt = "PhD Student" style="width:20%" align="right", fig_caption = "PhD Student" />
   <fig caption>  </figcaption>
 </div>
 
 
+
+
 ## Bio
 
-I am currently a PhD student in [Karen Garrett's Lab](http://www.garrettlab.com) in the department of plant pathology at the University of Florida. My main research interest is using network models to understand plant disease epidemics on a landscape level.  
+I am currently a PhD student in [Karen Garrett's Lab](http://www.garrettlab.com) in the department of plant pathology at the University of Florida. My main research interest is using network models to understand plant disease epidemics on a landscape level.   
 \  
 \  
 
 
 
-## Current Projects
+## Research Interests  
+
+
+
+* Plant disease epidemiology  
+* Network modeling  
+* Landscape epidemiology  
+* Healthy seed systems  
+* Emerging plant pathogens   
+* Field crop pathology  
