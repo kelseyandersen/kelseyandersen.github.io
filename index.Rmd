@@ -8,7 +8,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ## Bio
- I am currently a PhD student in [Karen Garrett's Lab](http://www.garrettlab.com) in the department of plant pathology at the University of Florida. My main research interest is using network models to understand plant disease epidemics on a landscape level.
+ I am currently a PhD student in [Karen Garrett's Lab](http://www.garrettlab.com) in the department of plant pathology at the University of Florida.  
+My main research interest is using network models to understand plant disease epidemics on a landscape level.
 
 
 
@@ -25,9 +26,11 @@ knitr::opts_chunk$set(echo = TRUE)
 * Field crop pathology  
 \  
 \  
-<div style= "position: relative; left: -300px; right: 700px; top: -275px; bottom: 300px;">
-  <img src="images/me2.gif"alt = "PhD Student" style="width:20%;"/>
+<div style= "position: relative; left: 200px; right: 200px; top: -200px; bottom: 300px;">
+  <img src="images/me2.gif"alt = "PhD Student" style="width:19%;"/>
 </div>
+
+
 
 \  
  
