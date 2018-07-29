@@ -26,8 +26,8 @@ My main research interest is using network models to understand plant disease ep
 * Field crop pathology  
 \  
 \  
-<div style= "position: relative; left: 200px; right: 200px; top: -200px; bottom: 300px;">
-  <img src="images/me2.gif"alt = "PhD Student" style="width:19%;"/>
+<div style= "position: relative; left: 300px; right: 200px; top: -200px; bottom: 300px;">
+  <img src="images/IMG_0294.jpg"alt = "PhD Student" style="width:30%;"/>
 </div>
 
 
