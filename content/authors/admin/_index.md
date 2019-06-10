@@ -1,6 +1,6 @@
 ---
 authors:
-- Kelsey Andersen Onofre
+- Kelsey Andersen
 bio: My research interests include plant disease epidemiology, data science, field crop pathology, risk assessment, and international agriculture.  
 education:
   courses:
