@@ -13,6 +13,12 @@ navbar:
         href: https://kelseyandersen.github.io/NetworksPlantPathology
       - text: "RTB Seed- Nigeria"
         href: https://kelseyandersen.github.io/CC2.1Workshop
+    - text: "Teaching"
+      menu: 
+      - text: Epidemiology 2018
+      - href: https://kelseyandersen.github.io/PLP6905/
+        
+  
       
   right:
     - icon: fa-envelope fa-lg
@@ -23,7 +29,7 @@ navbar:
       href: https://twitter.com/KelseyFAndersen
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/kelseyandersen/
-    - icon: fa-google-scholar fa-lg
+    - icon: fa-google fa-lg
       href: https://scholar.google.com/citations?user=-xeZ8KcAAAAJ&hl=en
 output:
   html_document:
