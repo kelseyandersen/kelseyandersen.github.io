@@ -5,8 +5,15 @@ navbar:
   left:
     - text: "About"
       href: index.html
-    - text: "CV"
+    - text: "Background"
       href: about.html
+    - text: "Workshops"
+      menu:
+      - text: ICPP Networks in R
+        href: https://kelseyandersen.github.io/NetworksPlantPathology
+      - text: "RTB Seed- Nigeria"
+        href: https://kelseyandersen.github.io/CC2.1Workshop
+      
   right:
     - icon: fa-envelope fa-lg
       href: mailto:andersenkf@gmail.com
@@ -16,13 +23,13 @@ navbar:
       href: https://twitter.com/KelseyFAndersen
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/kelseyandersen/
-    - icon: fa-google fa-lg
+    - icon: fa-google-scholar fa-lg
       href: https://scholar.google.com/citations?user=-xeZ8KcAAAAJ&hl=en
 output:
   html_document:
-    theme: paper
+    theme: flatly
     highlight: monochrome
     css: 'styles.css'
-   # toc: true  
+    #toc: true  
     #toc_float: true
 output_dir: "."
