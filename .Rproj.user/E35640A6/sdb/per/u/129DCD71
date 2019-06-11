@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "rmarkdown::render_site(encoding = \"UTF-8\")\n\n",
+    "created" : 1529716374269.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "672782792",
+    "id" : "129DCD71",
+    "lastKnownWriteTime" : 7023756638456643586,
+    "last_content_update" : 1530219661837,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560206217805.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AC735EB4",
+    "lastKnownWriteTime" : 1560211010,
+    "last_content_update" : 1560211010935,
+    "path" : "~/Dropbox (Personal)/Graduate School UF/kelseyandersen/config/_default/params.toml",
+    "project_path" : "config/_default/params.toml",
+    "properties" : {
+        "cursorPosition" : "54,2",
+        "scrollLine" : "48"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 18,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

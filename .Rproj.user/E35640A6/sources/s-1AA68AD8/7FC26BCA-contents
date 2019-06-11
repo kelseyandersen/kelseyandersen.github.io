@@ -1,0 +1,8 @@
+library(blogdown)
+
+install_hugo()
+
+new_site()
+
+install_theme("gcushen/hugo-academic")
+blogdown:::serve_site()

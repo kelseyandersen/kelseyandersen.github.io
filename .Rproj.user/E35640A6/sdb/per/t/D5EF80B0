@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n\n<link rel=\"stylesheet\" href=\"styles.css\" type=\"text/css\">\n\n\n## Bio\n I am currently a PhD student in [Karen Garrett's Lab](http://www.garrettlab.com) in the department of plant pathology at the University of Florida.  \nMy main research interest is using network models to understand plant disease epidemics on a landscape level.\n\n\n\n\n## Research Interests  \n\n\n\n* Plant disease epidemiology  \n* Network modeling  \n* Landscape epidemiology  \n* Healthy seed systems  \n* Emerging plant pathogens   \n* Field crop pathology  \n\\  \n\\  \n<div style= \"position: relative; left: 300px; right: 200px; top: -200px; bottom: 300px;\">\n  <img src=\"images/IMG_0294.jpg\"alt = \"PhD Student\" style=\"width:30%;\"/>\n</div>\n\n\n\n\\  \n \n\n\n\n\n\n\n\n",
+    "created" : 1529694661137.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3929496809",
+    "id" : "D5EF80B0",
+    "lastKnownWriteTime" : 1532839451,
+    "last_content_update" : 1532839451962,
+    "path" : "~/Dropbox/Graduate School UF/kelseyandersen/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
